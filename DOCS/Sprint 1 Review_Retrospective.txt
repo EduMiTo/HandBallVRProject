@@ -1,0 +1,16 @@
+Sprint 1 Review:
+
+- We managed to do everything we had planned for the Sprint with success
+- We thought communication with members from different countries would be hard
+but everyone made a big effort so everything went smoothly
+
+
+Sprint 1 Retrospective:
+
+- Make an estimation for all User Stories before the sprint starts
+- Really be clear about the needs of the client so we can accurately build all
+User Stories without missing any feature
+- Make better documentation on each script so that it is easier to review the code
+- Improve the project's architecture in a way that makes it more organized and easier 
+to scale
+- Make BPMN diagrams for each US

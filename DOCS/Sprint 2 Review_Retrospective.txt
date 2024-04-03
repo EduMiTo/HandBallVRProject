@@ -1,0 +1,13 @@
+Sprint 2 Review:
+
+- We had to leave some of the work for the next sprint, since it was too much
+- Nice task splitting and also we managed to learn how to elaborate more accurate planning
+
+
+Sprint 2 Retrospective:
+
+- Make an estimation for all User Stories before the sprint starts
+- Make better documentation on each script so that it is easier to review the code
+- Improve the project's architecture in a way that makes it more organized and easier 
+to scale
+- Make BPMN diagrams for each US

@@ -1,0 +1,12 @@
+Sprint 3 Review:
+
+- We had to leave some of the work for the next sprint, but this is because we had new ideas for the software
+- Most of the features now have a good foundation
+- We polished most of the code, making the program much easier to develop on for future developers
+
+
+Sprint 3 Retrospective:
+
+- We need to find a better way to use version control system since it's giving us too much irreversible problems
+- Make better documentation on each script so that it is easier to review the code
+- Make BPMN diagrams for each US
